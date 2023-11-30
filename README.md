@@ -1,2 +1,3 @@
-# apnacollege-deno
-this is ,y first git repository
+# apnacollege-demo
+this is my first git repository
+author - MD YOUSUFF
